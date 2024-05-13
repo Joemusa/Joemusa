@@ -6,6 +6,7 @@ Welcome to my GitHub portfolio! This repository serves as a showcase of my proje
 ## Employee Attrition
 * Description: The report shows the attrition rate of the a company
 * Technology used: Excel and PowerBI were used
+* [My Project Repositorty](
   
 ### Skills
 * Excel

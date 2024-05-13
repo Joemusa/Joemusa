@@ -1,16 +1,20 @@
-### Hi there 👋
+# Bongumusa Joseph Hlongwane's GigHub Portfolio 👋
+## Introduction
+Welcome to my GitHub portfolio! This repository serves as a showcase of my projects, contributions, and skills in the field of Data Analyst. Whether you're a potential employer, collaborator, or just curious about my work, I hope you find something here that interests you.
 
-<!--
-**Joemusa/Joemusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Projects
+## Employee Attrition
+* Description: The report shows the attrition rate of the a company
+* Technology used: Excel and PowerBI were used
+  
+### Skills
+* Excel
+* PowerBI
+* SQL
+### Education
+Qualification: BSc Mathematics and Applied Matematics
+Institution: UNISA (University of South Africa)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+

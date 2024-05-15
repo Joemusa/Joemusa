@@ -7,6 +7,10 @@ Welcome to my GitHub portfolio! This repository serves as a showcase of my proje
 - **Description:** The report shows the attrition rate of the a company
 - **Technology used:** Excel and PowerBI were used
 - **My Project Repositorty:** (https://github.com/Joemusa/employee_attrition)
+  
+## Employee Attrition
+- **Description:** The report highlights vehicle accidents and the severity of injusries.
+- **Technology used:** Excel and PowerBI were used
 - **My Project Repositorty:** (https://github.com/Joemusa/carcrashes)
   
 # Experience

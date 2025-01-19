@@ -4,7 +4,10 @@ Welcome to my GitHub portfolio! This repository serves as a showcase of my proje
 
 # Projects
 ### Argentina's Newborn Baby Naming Analysis
+- **Description:**Fascinating dataset containing records of newborn baby names in Argentina from 1922 to 2015. This data offers a unique glimpse into the country's cultural shifts, naming trends, and even the impact of iconic figures like Diego Maradona.
+                  From the rise and fall of baby boom years to the decline in name diversity over time. 
 - **My project Repositry:** (https://github.com/Joemusa/newborns)
+- **Technolody uses:** Python Jupiter Notebook
 ### Employee Attrition
 - **Description:** The report shows the attrition rate of the a company
 - **Technology used:** Excel and PowerBI were used

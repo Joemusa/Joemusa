@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! This repository serves as a showcase of my proje
 
 # Projects
 ### Argentina's Newborn Baby Naming Analysis
-- **My project Repositry:** (https://github.com/Joemusa/newborns/tree/main)
+- **My project Repositry:** (https://github.com/Joemusa/newborns)
 ### Employee Attrition
 - **Description:** The report shows the attrition rate of the a company
 - **Technology used:** Excel and PowerBI were used
